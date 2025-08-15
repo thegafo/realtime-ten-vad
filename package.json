@@ -22,10 +22,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GAFO-TECH/realtime-ten-vad"
+    "url": "https://github.com/thegafo/realtime-ten-vad"
   },
   "bugs": {
-    "url": "https://github.com/GAFO-TECH/realtime-ten-vad/issues"
+    "url": "https://github.com/thegafo/realtime-ten-vad/issues"
   },
   "dependencies": {
     "node-microphone": "^0.1.6"
