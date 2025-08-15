@@ -1,0 +1,33 @@
+{
+  "name": "realtime-ten-vad",
+  "version": "1.0.0",
+  "description": "Realtime voice-activity detection (VAD) for Node.js, powered by TEN-VAD WebAssembly backend.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "vad",
+    "voice-activity-detection",
+    "speech",
+    "audio",
+    "wasm",
+    "webassembly",
+    "realtime"
+  ],
+  "author": "GAFO TECH",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GAFO-TECH/realtime-ten-vad"
+  },
+  "bugs": {
+    "url": "https://github.com/GAFO-TECH/realtime-ten-vad/issues"
+  },
+  "dependencies": {
+    "node-microphone": "^0.1.6"
+  }
+}
