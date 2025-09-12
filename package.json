@@ -1,6 +1,6 @@
 {
   "name": "realtime-ten-vad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Realtime voice-activity detection (VAD) for Node.js, powered by TEN-VAD WebAssembly backend.",
   "main": "index.js",
   "directories": {
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/thegafo/realtime-ten-vad/issues"
   },
-  "dependencies": {
+  "devDependencies": {
     "node-microphone": "^0.1.6"
   }
 }
